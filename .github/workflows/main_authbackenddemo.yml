@@ -21,9 +21,12 @@ jobs:
         with:
           dotnet-version: '8.x'
           include-prerelease: true
-
+          
+      - name: Restore
+        run: dotnet restore ./IDSP_Boiler_Plate.sln
+        
       - name: Build with dotnet
-        run: dotnet build --configuration Release
+        run: dotnet build IDSP_BackEnd.csproj --configuration Release
 
       - name: dotnet publish
         run: dotnet publish IDSP_Boiler_Plate.sln -c Release -o ${{env.DOTNET_ROOT}}/myapp
