@@ -23,7 +23,7 @@ public class AuthenticationController : IController<string, HttpContext>
         string decodedString = System.Text.Encoding.UTF8.GetString(data);
 
         var stringBuilder = new StringBuilder();
-        stringBuilder.AppendLine("Hello " + principalName.ToString());
+        stringBuilder.AppendLine("Hello From Second App " + principalName.ToString());
         stringBuilder.AppendLine("Your OAuth Claims Tokens: ");
         stringBuilder.AppendLine(decodedString);
         stringBuilder.AppendLine("Id Token: " + idToken.ToString());
