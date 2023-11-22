@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/IDSP_BackEnd.props" />
+</Project>

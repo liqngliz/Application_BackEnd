@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "2GkSzxSQaDOTWI2heourTCJf1lJhUfuylUg5snIKhLU=",
-  "Source": "IDSP_Boiler_Plate",
-  "BasePath": "_content/IDSP_Boiler_Plate",
+  "Hash": "vW8izVoEb6C+zamIoLAIStADqv5G52v1LOsomfyJ8kw=",
+  "Source": "IDSP_BackEnd",
+  "BasePath": "_content/IDSP_BackEnd",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

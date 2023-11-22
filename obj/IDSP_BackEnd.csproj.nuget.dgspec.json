@@ -4,14 +4,14 @@
     "/Users/angli/Desktop/NET projects/Application_BackEnd/IDSP_BackEnd.csproj": {}
   },
   "projects": {
-    "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj": {
+    "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj",
+        "projectUniqueName": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj",
         "projectName": "AppBackEnd_Tests",
-        "projectPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj",
+        "projectPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj",
         "packagesPath": "/Users/angli/.nuget/packages/",
-        "outputPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/obj/",
+        "outputPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/angli/.nuget/NuGet/NuGet.Config"
@@ -115,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj": {
-                "projectPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj"
+              "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj": {
+                "projectPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj"
               }
             }
           }

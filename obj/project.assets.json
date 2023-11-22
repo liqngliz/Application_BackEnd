@@ -5691,8 +5691,8 @@
     },
     "AppBackEnd_Tests/1.0.0": {
       "type": "project",
-      "path": "AppbackEnd_Tests/AppBackEnd_Tests.csproj",
-      "msbuildProject": "AppbackEnd_Tests/AppBackEnd_Tests.csproj"
+      "path": "AppBackEnd_Tests/AppBackEnd_Tests.csproj",
+      "msbuildProject": "AppBackEnd_Tests/AppBackEnd_Tests.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5727,8 +5727,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj": {
-              "projectPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppbackEnd_Tests/AppBackEnd_Tests.csproj"
+            "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj": {
+              "projectPath": "/Users/angli/Desktop/NET projects/Application_BackEnd/AppBackEnd_Tests/AppBackEnd_Tests.csproj"
             }
           }
         }
